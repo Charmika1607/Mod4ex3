@@ -1,0 +1,181 @@
+employee_id,name,department,title,hire_date,salary,location,manager_id
+EMP-0001,Fatima Cohen,Operations,Manager,2019-02-02,155790,Madrid,
+EMP-0002,Chen Murphy,Support,Manager,2020-05-23,182480,Madrid,
+EMP-0003,Chen Tanaka,Sales,Lead,2019-05-13,154851,Madrid,
+EMP-0004,Chen Nguyen,Support,Coordinator,2023-05-22,80307,Mumbai,
+EMP-0005,Sam Tanaka,Finance,Coordinator,2023-02-18,90426,Toronto,
+EMP-0006,James Tanaka,Marketing,Analyst,2021-03-29,130203,Austin,
+EMP-0007,Chen Shah,Marketing,Coordinator,2022-08-26,159143,Mumbai,
+EMP-0008,Priya Diaz,Marketing,Lead,2020-12-01,111872,Austin,
+EMP-0009,Sofia Khan,Engineering,Director,2024-09-14,110078,Berlin,EMP-0003
+EMP-0010,Luca Shah,Finance,Analyst,2019-11-12,163652,Mumbai,EMP-0004
+EMP-0011,Chen Shah,Marketing,Senior Engineer,2019-07-12,120204,Berlin,EMP-0008
+EMP-0012,Anna Diaz,Sales,Coordinator,2019-06-25,93089,São Paulo,EMP-0003
+EMP-0013,Mia Bennett,Engineering,Analyst,2021-10-30,171302,Berlin,EMP-0005
+EMP-0014,Aisha Tanaka,Support,Manager,2022-12-25,104204,Mumbai,EMP-0008
+EMP-0015,Elena Wei,Support,Lead,2023-03-18,79926,Shanghai,EMP-0006
+EMP-0016,Noah Bianchi,Engineering,Senior Engineer,2020-01-30,148394,London,EMP-0008
+EMP-0017,Mia Khan,Engineering,Specialist,2022-09-24,117994,Tokyo,EMP-0005
+EMP-0018,David Haddad,Support,Analyst,2020-12-10,157763,Shanghai,EMP-0004
+EMP-0019,Aisha Herrera,Finance,Senior Engineer,2025-03-29,78368,Shanghai,EMP-0002
+EMP-0020,Aisha Bennett,HR,Lead,2023-01-12,98170,São Paulo,EMP-0005
+EMP-0021,Sam Cohen,Marketing,Senior Engineer,2020-06-05,59802,Tokyo,EMP-0003
+EMP-0022,Omar Diaz,Finance,Coordinator,2019-12-15,157938,Madrid,EMP-0004
+EMP-0023,Mia Al-Sayed,Support,Senior Engineer,2022-06-15,96455,Austin,EMP-0003
+EMP-0024,Paul Al-Sayed,HR,Director,2024-09-13,77423,Austin,EMP-0001
+EMP-0025,Elena Silva,HR,Specialist,2021-11-09,51840,Austin,EMP-0008
+EMP-0026,David Bianchi,Engineering,Director,2024-10-08,153198,Tokyo,EMP-0002
+EMP-0027,David Tanaka,Sales,Director,2024-06-27,164455,Paris,EMP-0004
+EMP-0028,Sofia Bianchi,Finance,Manager,2023-08-18,180063,Toronto,EMP-0003
+EMP-0029,Chen Herrera,HR,Specialist,2023-05-04,152364,London,EMP-0007
+EMP-0030,Sofia Okafor,HR,Coordinator,2022-05-14,118671,Madrid,EMP-0006
+EMP-0031,Chen Herrera,Support,Specialist,2024-04-06,179533,London,EMP-0001
+EMP-0032,Marco Kowalski,Operations,Senior Engineer,2020-12-03,64157,London,EMP-0006
+EMP-0033,Mia Haddad,Finance,Coordinator,2021-11-01,67211,Mumbai,EMP-0008
+EMP-0034,Luca Bianchi,HR,Specialist,2024-11-12,149871,Paris,EMP-0007
+EMP-0035,Elena Rossi,Operations,Specialist,2021-02-05,87817,Toronto,EMP-0004
+EMP-0036,Laura Silva,HR,Director,2021-12-16,118845,Tokyo,EMP-0003
+EMP-0037,Paul Diaz,Marketing,Coordinator,2019-09-24,169501,Berlin,EMP-0004
+EMP-0038,Laura Khan,Marketing,Analyst,2021-08-16,82856,Tokyo,EMP-0003
+EMP-0039,Elena Nguyen,Support,Director,2023-01-03,114127,Paris,EMP-0006
+EMP-0040,Sofia Bennett,Finance,Senior Engineer,2025-07-12,140795,Toronto,EMP-0004
+EMP-0041,Priya Nguyen,Finance,Specialist,2019-10-05,153361,Mumbai,EMP-0003
+EMP-0042,Omar Diaz,HR,Director,2022-11-20,89422,Shanghai,EMP-0003
+EMP-0043,David Petrov,Marketing,Manager,2025-06-16,113458,São Paulo,EMP-0001
+EMP-0044,David Murphy,Operations,Specialist,2025-06-04,101911,Tokyo,EMP-0004
+EMP-0045,Sam Tanaka,Sales,Senior Engineer,2021-11-12,46546,Lagos,EMP-0003
+EMP-0046,James Haddad,HR,Manager,2022-12-30,87995,São Paulo,EMP-0003
+EMP-0047,Elena Diaz,Finance,Director,2019-05-26,146819,Paris,EMP-0005
+EMP-0048,Yuki Haddad,Engineering,Analyst,2022-05-03,106812,Austin,EMP-0004
+EMP-0049,Sam Wei,Support,Director,2023-07-11,165866,Austin,EMP-0004
+EMP-0050,Tomás Murphy,Marketing,Coordinator,2021-09-02,137789,Shanghai,EMP-0008
+EMP-0051,Nina Diaz,Sales,Analyst,2024-01-21,80034,Shanghai,EMP-0006
+EMP-0052,Mia Nguyen,Marketing,Director,2021-02-16,99373,Dubai,EMP-0006
+EMP-0053,Elena Al-Sayed,Marketing,Director,2022-03-18,102614,Madrid,EMP-0002
+EMP-0054,Paul Bianchi,Operations,Coordinator,2023-05-25,178436,Austin,EMP-0004
+EMP-0055,Sofia Tanaka,Operations,Specialist,2019-12-02,94623,Tokyo,EMP-0002
+EMP-0056,David Murphy,Support,Coordinator,2023-08-30,174100,Paris,EMP-0002
+EMP-0057,Anna Al-Sayed,Operations,Manager,2019-03-20,176288,Berlin,EMP-0005
+EMP-0058,Mia Shah,Sales,Specialist,2025-01-30,163709,Shanghai,EMP-0002
+EMP-0059,Fatima Larsen,Sales,Senior Engineer,2021-01-05,42895,Shanghai,EMP-0007
+EMP-0060,Marco Tanaka,Operations,Senior Engineer,2023-04-08,79352,Paris,EMP-0001
+EMP-0061,Chen Khan,Engineering,Lead,2024-12-31,154500,Lagos,EMP-0001
+EMP-0062,David Shah,HR,Senior Engineer,2020-06-21,170288,São Paulo,EMP-0008
+EMP-0063,Omar Meyer,Finance,Lead,2022-04-20,84900,Austin,EMP-0004
+EMP-0064,David Larsen,Marketing,Director,2023-02-24,55459,Toronto,EMP-0008
+EMP-0065,Marco Cohen,Support,Lead,2020-07-24,59745,Madrid,EMP-0006
+EMP-0066,James Bennett,Support,Specialist,2021-12-04,121930,Paris,EMP-0001
+EMP-0067,Yuki Shah,Support,Coordinator,2024-09-08,47505,Madrid,EMP-0007
+EMP-0068,Mia Larsen,HR,Manager,2021-02-14,131963,Paris,EMP-0003
+EMP-0069,Elena Murphy,Sales,Specialist,2020-07-04,97887,Mumbai,EMP-0007
+EMP-0070,Omar Rossi,Sales,Senior Engineer,2021-01-27,119204,São Paulo,EMP-0002
+EMP-0071,Nina Petrov,Marketing,Coordinator,2023-07-23,118607,Austin,EMP-0003
+EMP-0072,Paul Herrera,Engineering,Director,2020-06-10,134485,São Paulo,EMP-0003
+EMP-0073,Laura Meyer,Sales,Director,2022-07-29,105706,Tokyo,EMP-0007
+EMP-0074,Luca Nguyen,Operations,Director,2022-04-10,84947,São Paulo,EMP-0001
+EMP-0075,Mia Tanaka,Support,Manager,2022-12-12,171955,Lagos,EMP-0008
+EMP-0076,Sam Kowalski,HR,Specialist,2020-09-02,184785,Dubai,EMP-0006
+EMP-0077,Sam Nguyen,Marketing,Specialist,2020-08-09,171799,Toronto,EMP-0008
+EMP-0078,Luca Bennett,Sales,Coordinator,2022-05-20,121612,Shanghai,EMP-0002
+EMP-0079,Mia Okafor,Sales,Lead,2019-01-24,67037,Tokyo,EMP-0005
+EMP-0080,Yuki Bennett,Marketing,Specialist,2019-04-02,178888,London,EMP-0003
+EMP-0081,Sofia Nguyen,Sales,Specialist,2019-12-07,75975,Madrid,EMP-0006
+EMP-0082,Fatima Meyer,Support,Coordinator,2019-05-20,62148,Berlin,EMP-0001
+EMP-0083,Omar Cohen,Marketing,Manager,2023-12-05,99128,São Paulo,EMP-0004
+EMP-0084,James Murphy,HR,Lead,2022-08-18,151242,Dubai,EMP-0002
+EMP-0085,Mia Kowalski,Marketing,Specialist,2022-02-07,177948,Berlin,EMP-0006
+EMP-0086,Fatima Murphy,HR,Coordinator,2024-10-23,42447,São Paulo,EMP-0007
+EMP-0087,Luca Meyer,Marketing,Manager,2023-10-19,173535,Lagos,EMP-0001
+EMP-0088,Omar Murphy,Support,Lead,2025-04-06,48802,Lagos,EMP-0002
+EMP-0089,Nina Herrera,Support,Director,2021-09-23,164239,Berlin,EMP-0002
+EMP-0090,Omar Al-Sayed,Support,Analyst,2020-10-04,81638,Dubai,EMP-0007
+EMP-0091,Laura Kowalski,Marketing,Analyst,2024-04-03,184053,Dubai,EMP-0004
+EMP-0092,Yuki Diaz,Sales,Manager,2022-04-20,62132,Austin,EMP-0006
+EMP-0093,Sam Khan,Support,Analyst,2023-01-20,47623,Dubai,EMP-0004
+EMP-0094,Omar Al-Sayed,Support,Coordinator,2023-07-24,47417,Shanghai,EMP-0008
+EMP-0095,David Rossi,Finance,Coordinator,2023-06-13,54155,Madrid,EMP-0005
+EMP-0096,Tomás Petrov,Support,Manager,2022-01-31,170841,Mumbai,EMP-0008
+EMP-0097,Omar Silva,Engineering,Coordinator,2020-08-15,156782,Madrid,EMP-0002
+EMP-0098,Luca Kowalski,Support,Analyst,2024-04-14,47532,London,EMP-0004
+EMP-0099,Sofia Tanaka,Marketing,Specialist,2022-08-02,139066,São Paulo,EMP-0004
+EMP-0100,Nina Petrov,Engineering,Specialist,2023-03-14,79060,London,EMP-0007
+EMP-0101,Yuki Meyer,HR,Manager,2019-01-15,104125,Lagos,EMP-0001
+EMP-0102,Noah Tanaka,HR,Analyst,2024-10-31,105320,Lagos,EMP-0008
+EMP-0103,Sofia Petrov,Finance,Coordinator,2021-07-05,55015,Paris,EMP-0001
+EMP-0104,Marco Okafor,HR,Analyst,2021-03-11,99143,London,EMP-0008
+EMP-0105,Luca Herrera,Sales,Director,2019-07-03,58132,Shanghai,EMP-0005
+EMP-0106,Priya Diaz,Marketing,Director,2020-07-22,122057,Shanghai,EMP-0004
+EMP-0107,James Okafor,Operations,Coordinator,2021-10-20,150323,Austin,EMP-0008
+EMP-0108,Noah Tanaka,Operations,Director,2024-02-17,43337,Dubai,EMP-0005
+EMP-0109,Sam Bianchi,HR,Coordinator,2019-09-30,150274,Shanghai,EMP-0003
+EMP-0110,Yuki Murphy,HR,Senior Engineer,2024-01-27,51574,Tokyo,EMP-0007
+EMP-0111,Priya Nguyen,Operations,Manager,2022-10-20,141774,Berlin,EMP-0003
+EMP-0112,Luca Bennett,HR,Manager,2024-07-25,56170,Tokyo,EMP-0002
+EMP-0113,David Larsen,Marketing,Lead,2023-02-08,148030,Berlin,EMP-0004
+EMP-0114,Fatima Murphy,Operations,Manager,2019-03-06,44367,Mumbai,EMP-0008
+EMP-0115,Nina Petrov,Finance,Analyst,2023-01-30,66970,São Paulo,EMP-0004
+EMP-0116,Yuki Rossi,Support,Lead,2022-06-10,170709,São Paulo,EMP-0004
+EMP-0117,Tomás Murphy,HR,Analyst,2022-02-08,83753,São Paulo,EMP-0008
+EMP-0118,Sam Al-Sayed,HR,Analyst,2019-09-15,76747,Madrid,EMP-0008
+EMP-0119,Chen Rossi,Support,Manager,2019-12-08,101747,Madrid,EMP-0008
+EMP-0120,Paul Murphy,HR,Lead,2023-05-11,75309,Dubai,EMP-0003
+EMP-0121,David Diaz,Finance,Specialist,2023-08-15,149254,Shanghai,EMP-0005
+EMP-0122,Noah Herrera,HR,Director,2022-10-25,164313,Tokyo,EMP-0006
+EMP-0123,Yuki Haddad,Marketing,Analyst,2025-01-02,164803,Mumbai,EMP-0001
+EMP-0124,Yuki Tanaka,Marketing,Lead,2019-06-07,126848,Toronto,EMP-0007
+EMP-0125,Omar Larsen,Support,Manager,2022-07-08,184967,Lagos,EMP-0002
+EMP-0126,Luca Tanaka,HR,Specialist,2019-10-19,42387,São Paulo,EMP-0007
+EMP-0127,Aisha Silva,Marketing,Manager,2022-02-28,158646,Shanghai,EMP-0001
+EMP-0128,Anna Al-Sayed,Support,Senior Engineer,2022-11-04,88706,Austin,EMP-0005
+EMP-0129,Sofia Wei,HR,Director,2022-06-16,126234,Madrid,EMP-0002
+EMP-0130,Aisha Shah,Operations,Senior Engineer,2020-04-11,84265,Toronto,EMP-0001
+EMP-0131,Sam Larsen,Engineering,Analyst,2021-08-15,79901,Paris,EMP-0002
+EMP-0132,Omar Larsen,HR,Manager,2019-12-16,168915,Toronto,EMP-0005
+EMP-0133,Laura Cohen,Sales,Lead,2021-11-15,174846,Lagos,EMP-0001
+EMP-0134,Aisha Wei,Sales,Lead,2019-07-23,45108,Lagos,EMP-0005
+EMP-0135,Chen Larsen,HR,Specialist,2025-03-01,78645,Shanghai,EMP-0001
+EMP-0136,Luca Diaz,Finance,Coordinator,2021-07-06,115832,Tokyo,EMP-0007
+EMP-0137,Sam Petrov,HR,Analyst,2021-09-28,49596,London,EMP-0002
+EMP-0138,Tomás Bennett,Marketing,Analyst,2023-02-06,53320,Berlin,EMP-0005
+EMP-0139,Sofia Okafor,Finance,Director,2021-01-09,143598,Toronto,EMP-0004
+EMP-0140,Priya Herrera,Marketing,Coordinator,2020-11-12,120008,Dubai,EMP-0003
+EMP-0141,Chen Petrov,Marketing,Director,2022-09-14,86791,Dubai,EMP-0001
+EMP-0142,Fatima Murphy,Sales,Senior Engineer,2025-02-27,71788,Toronto,EMP-0006
+EMP-0143,Nina Al-Sayed,Finance,Senior Engineer,2023-08-13,74195,Madrid,EMP-0005
+EMP-0144,Nina Larsen,Engineering,Analyst,2021-07-10,78618,Shanghai,EMP-0004
+EMP-0145,Laura Al-Sayed,Operations,Specialist,2021-03-31,60780,Austin,EMP-0005
+EMP-0146,Marco Murphy,HR,Manager,2021-03-25,147994,Madrid,EMP-0003
+EMP-0147,Aisha Khan,Operations,Director,2022-07-31,76446,Tokyo,EMP-0003
+EMP-0148,Anna Herrera,Finance,Director,2021-05-28,45744,Toronto,EMP-0003
+EMP-0149,Laura Murphy,Support,Manager,2019-01-16,62464,Berlin,EMP-0003
+EMP-0150,Paul Shah,Engineering,Senior Engineer,2023-02-22,105001,Tokyo,EMP-0008
+EMP-0151,David Bennett,Operations,Lead,2022-01-02,67142,Tokyo,EMP-0004
+EMP-0152,Laura Herrera,Finance,Manager,2025-07-27,162105,Lagos,EMP-0002
+EMP-0153,Aisha Petrov,Marketing,Coordinator,2021-04-16,65027,London,EMP-0002
+EMP-0154,Fatima Cohen,Sales,Analyst,2024-11-16,47904,Dubai,EMP-0003
+EMP-0155,Anna Tanaka,Finance,Coordinator,2019-08-18,55908,Paris,EMP-0008
+EMP-0156,James Rossi,Finance,Manager,2020-02-23,80783,Paris,EMP-0001
+EMP-0157,David Bennett,Marketing,Senior Engineer,2021-03-06,82967,Madrid,EMP-0002
+EMP-0158,Tomás Okafor,Operations,Manager,2022-10-03,51528,Tokyo,EMP-0008
+EMP-0159,David Murphy,HR,Analyst,2025-02-17,116843,Shanghai,EMP-0003
+EMP-0160,Priya Meyer,Engineering,Lead,2021-03-15,47056,Dubai,EMP-0003
+EMP-0161,Laura Diaz,Support,Specialist,2023-08-21,45045,Madrid,EMP-0006
+EMP-0162,Noah Tanaka,HR,Coordinator,2022-12-05,150213,Madrid,EMP-0005
+EMP-0163,Nina Haddad,Marketing,Manager,2025-04-06,43551,Paris,EMP-0001
+EMP-0164,Mia Okafor,Engineering,Coordinator,2019-03-05,47975,Dubai,EMP-0004
+EMP-0165,Aisha Bennett,Support,Analyst,2024-12-18,77246,Dubai,EMP-0001
+EMP-0166,Marco Kowalski,Support,Manager,2021-01-27,149619,Lagos,EMP-0006
+EMP-0167,Omar Kowalski,Support,Coordinator,2025-06-22,165454,Austin,EMP-0007
+EMP-0168,Paul Cohen,Sales,Coordinator,2024-03-22,77997,São Paulo,EMP-0007
+EMP-0169,Anna Rossi,HR,Lead,2025-01-15,115155,São Paulo,EMP-0008
+EMP-0170,Laura Cohen,Finance,Director,2021-01-20,147539,Mumbai,EMP-0008
+EMP-0171,Noah Bianchi,Sales,Manager,2022-10-03,165784,Tokyo,EMP-0005
+EMP-0172,Sofia Rossi,Sales,Coordinator,2022-08-13,129832,São Paulo,EMP-0005
+EMP-0173,James Wei,HR,Senior Engineer,2020-11-10,106679,Toronto,EMP-0002
+EMP-0174,Omar Larsen,Engineering,Specialist,2024-12-14,50336,Berlin,EMP-0008
+EMP-0175,Priya Murphy,Engineering,Manager,2023-02-01,128884,London,EMP-0008
+EMP-0176,Chen Bennett,Support,Senior Engineer,2020-07-05,174497,London,EMP-0003
+EMP-0177,Laura Murphy,HR,Manager,2023-07-16,96830,London,EMP-0006
+EMP-0178,Mia Bianchi,Marketing,Coordinator,2024-03-27,130989,London,EMP-0005
+EMP-0179,David Al-Sayed,Finance,Director,2024-03-13,159875,Madrid,EMP-0005
+EMP-0180,Laura Rossi,HR,Lead,2021-06-13,147836,Dubai,EMP-0005
